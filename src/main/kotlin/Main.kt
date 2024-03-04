@@ -6,3 +6,4 @@ fun main() {
     languages.add("Kotlin")
     println("The language I will know in a few months: $languages")
 }
+
